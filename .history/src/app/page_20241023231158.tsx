@@ -1,7 +1,7 @@
-import Navbar from "./components/Navbar"
+import Navbar from "./"
 import React from 'react';
 // import Image from "next/image";
-import Shop from "./components/Shop";
+import Shop from "./components/shop";
 import About from "./components/About"
 import ParallaxImage from "./components/MoveImg"
 import Contact from "./components/Contact"
