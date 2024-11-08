@@ -29,8 +29,8 @@ export default function Hero() {
         </div>
       </div> */}
       <div className="flex items-center justify-center h-full p-4 md:p-8">
-  <div className="p-2 bg-off-white ">
-    <div className="bg-off-white p-6 sm:p-8 md:p-10 text-center border border-customTextColor max-w-sm sm:max-w-md mx-auto">
+  <div className="p-2 bg-off ">
+    <div className="bg-white p-6 sm:p-8 md:p-10 text-center border border-customTextColor max-w-sm sm:max-w-md mx-auto">
       <h1 className="text-customTextColor text-3xl sm:text-4xl md:text-5xl mb-4">
         FLAMINGO DESIGNS
       </h1>
